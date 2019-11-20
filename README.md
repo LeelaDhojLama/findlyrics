@@ -1,1 +1,2 @@
-findlyrics is a web applicaton develop with reactjs where user can search lyrics for their favourite songs
+# findlyrics
+Find Lyrics is a web application develop with react js and musixmatch api
