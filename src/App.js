@@ -13,7 +13,7 @@ function App() {
       <Router>
         <React.Fragment>
           <Navbar />
-          <div className="container">
+          <div className="container-fluid">
             <Switch>
               <Route exact path="/" component={Index} />
               <Route exact path="/lyrics/tracks/:id" component={Lyrics} />
